@@ -43,3 +43,7 @@ URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-
 Sesión 1: 
 - Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada
 - Se crean las carpetas para crear la estructura del proyecto y mantener todos los datos en un mismo lugar
+
+Sesión 2: 
+- Se crea la hoja de cálculo de google sheets y se importa la base de datos correspondiente
+-Se gestiona la información y se comienza con la limpieza y transformación de los datos, pasando inicialmente toda la información en inglés al español
