@@ -37,3 +37,6 @@ URL: https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M
 
 ## Resultados y Conclusiones
 ## Recap Session
+Sesión 1: 
+- Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada
+- Se crean las carpetas para crear la estructura del proyecto y mantener todos los datos en un mismo lugar
