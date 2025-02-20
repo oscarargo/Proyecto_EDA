@@ -30,10 +30,13 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 *   **Frecuencia de Compras:** Frecuencia con la que el cliente realiza compras
 
 ## Estructura del Proyecto
-
+## Metodología
 ## Requisitos e Instalación
 Este proyecto se ha desarrollado por completo en la interfaz de google, a través de Google Sheets.
 URL: https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M24GKNekg/edit?gid=1274025939#gid=1274025939
+
+a través de Kaggle, se obtuvo la base de datos y la idea necesaria para llevar a cabo este proyecto
+URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
 ## Resultados y Conclusiones
 ## Recap Session
