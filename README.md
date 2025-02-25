@@ -10,27 +10,59 @@ Este proyecto consiste en un análisis exploratorio de datos (EDA) realizado sob
 
 El conjunto de datos utilizado en este análisis contiene información sobre:
 
-*   **ID del Cliente:** Identificador único del cliente.
+*   **ID_Cliente:** Identificador único del cliente.
 *   **Edad:** Edad del cliente.
 *   **Género:** Género del cliente.
-*   **Artículo Comprado:** Nombre del artículo comprado.
+*   **Artículo_Comprado:** Nombre del artículo comprado.
 *   **Categoría:** Categoría del artículo comprado (Ropa, Accesorios, Calzado, etc.).
-*   **Monto de Compra (USD):** Monto gastado en la compra.
+*   **Cantidad_Pagada (USD):** Monto gastado en la compra.
 *   **Ubicación:** Ubicación geográfica del cliente.
 *   **Talla:** Talla del artículo comprado.
 *   **Color:** Color del artículo comprado.
 *   **Temporada:** Temporada en la que se realizó la compra.
-*   **Calificación de la Reseña:** Calificación dada por el cliente al producto.
-*   **Estado de Suscripción:** Indica si el cliente está suscrito o no.
-*   **Tipo de Envío:** Método de envío utilizado.
+*   **Calificación_Reseña:** Calificación dada por el cliente al producto.
+*   **Suscripción:** Indica si el cliente está suscrito o no.
+*   **Tipo_Envío:** Método de envío utilizado.
 *   **Descuento Aplicado:** Indica si se aplicó un descuento en la compra.
-*   **Código Promocional Utilizado:** Indica si se utilizó un código promocional.
-*   **Compras Anteriores:** Número de compras anteriores realizadas por el cliente.
-*   **Método de Pago:** Método de pago utilizado.
-*   **Frecuencia de Compras:** Frecuencia con la que el cliente realiza compras
+*   **Código_Promocional:** Indica si se utilizó un código promocional.
+*   **Compras_Anteriores:** Número de compras anteriores realizadas por el cliente.
+*   **Tipo_Pago:** Método de pago utilizado.
+*   **Frecuencia_Compras:** Frecuencia con la que el cliente realiza compras
 
 ## Estructura del Proyecto
 ## Metodología
+ Pasos para realizar un Análisis Exploratorio de Datos (EDA) en Google Sheets:
+
+## 1.Carga de datos
+
+- Subir el archivo CSV a Google Sheets.
+
+## 2.Revisar la estructura y verificar que los datos se hayan cargado correctamente.
+
+- Limpieza de datos
+
+- Renombrar columnas mal etiquetadas o genéricas.
+
+- Manejar valores nulos y duplicados usando funciones de Google Sheets.
+
+- Convertir formatos de datos según sea necesario (ejemplo: fechas, números).
+
+## 3.Análisis estadístico y visualización
+
+- Usar funciones como PROMEDIO, MEDIANA, MODA, DESVEST para obtener estadísticas descriptivas.
+
+- Crear tablas dinámicas para agrupar y analizar datos.
+
+- Generar gráficos (barras, líneas, histogramas, scatter plots) para visualizar tendencias y distribuciones.
+
+## 4.Exploración de relaciones
+
+- Analizar correlaciones mediante tablas dinámicas y gráficos.
+
+- Comparar métricas clave por categoría de producto y temporada.
+
+- Evaluar el impacto de descuentos y métodos de pago en el comportamiento de compra.
+
 ## Requisitos e Instalación
 Este proyecto se ha desarrollado por completo en la interfaz de google, a través de Google Sheets.
 URL: https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M24GKNekg/edit?gid=1274025939#gid=1274025939
@@ -39,6 +71,12 @@ a través de Kaggle, se obtuvo la base de datos y la idea necesaria para llevar 
 URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
 ## Resultados y Conclusiones
+- Conclusiones iniciales y próximos pasos
+
+- Identificación de patrones de compra.
+
+- Posibles segmentaciones de clientes
+- Insights sobre descuentos, métodos de pago y frecuencia de compras.
 ## Recap Session
 Sesión 1: 
 - Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada
