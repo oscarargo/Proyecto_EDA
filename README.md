@@ -33,11 +33,11 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 ## Metodología
  Pasos para realizar un Análisis Exploratorio de Datos (EDA) en Google Sheets:
 
-### 1.Carga de datos
+##### 1.Carga de datos
 
 - Subir el archivo CSV a Google Sheets.
 
-### 2.Revisar la estructura y verificar que los datos se hayan cargado correctamente.
+##### 2.Revisar la estructura y verificar que los datos se hayan cargado correctamente.
 
 - Limpieza de datos
 
@@ -47,7 +47,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 
 - Convertir formatos de datos según sea necesario (ejemplo: fechas, números).
 
-### 3.Análisis estadístico y visualización
+##### 3.Análisis estadístico y visualización
 
 - Usar funciones como PROMEDIO, MEDIANA, MODA, DESVEST para obtener estadísticas descriptivas.
 
@@ -55,7 +55,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 
 - Generar gráficos (barras, líneas, histogramas, scatter plots) para visualizar tendencias y distribuciones.
 
-### 4.Exploración de relaciones
+##### 4.Exploración de relaciones
 
 - Analizar correlaciones mediante tablas dinámicas y gráficos.
 
