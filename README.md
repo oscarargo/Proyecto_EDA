@@ -103,3 +103,7 @@ Sesión 3:
 - Se realizan gráficas de todos los datos categóricos de manera individual para conocer las tendencias y poder aproximarse hacia análisis posteriores más exhaustivas combinando columnas y datos.
 - Los datos que presentan opciones "Sí" y " No" no son estudiados mediante gráfico debido a que la opción en Google Sheets "estadísticas de columna" nos permite analizar fácilmente esta información.
 - Por otra parte, se crea una nueva hoja para realizar el cálculo de los datos numéricos ( Edad, Cantidad_Pagada, Calificación_Reseña y Compras_Anteriores)
+
+Sesión 4:
+
+- Tras haber estudiado individualmente todas las columnas de la base de datos, procedemos a realizar un estudio más exhaustivo combinando columnas y entrando en profundidad en el estudio de la base de datos.
