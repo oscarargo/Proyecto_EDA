@@ -97,5 +97,9 @@ Sesión 3:
 
 - Se realiza una revisión de las dos sesiones anteriores:
    * se ha detectado una incogruencia en la traducción "dress" en el género masculino y se sustituye "vestido" por "traje"; de la misma manera se hace con "outerwear" y se traduce como "Ropa de abrigo"
+   * En el caso de la Frecuencia_Compras se observa que "Quarterly" y "every 3 months" significan lo mismo por lo que se sustituye "Cada 3 meses" por "trimestral.
    * Se hacen varias modificaciones para mantener la coherencia y el formato en cuanto al texto de la tabla, corrigiendo errores de mayúsculas o minúsculas
-- En esta sesión se realiza el análisis descriptivo de los datos, analizando medias, medianas, desviaciones estándar , etcétera. Además se comienzan a realizar las primeras tablas dinámicas y gráficos para comenzar con el análisis de datos.
+- En esta sesión se realiza el análisis descriptivo de los datos, analizando medias, desviaciones estándar , etcétera. Además se comienzan a realizar las primeras tablas dinámicas y gráficos para comenzar con el análisis de datos general.
+- Se realizan gráficas de todos los datos categóricos de manera individual para conocer las tendencias y poder aproximarse hacia análisis posteriores más exhaustivas combinando columnas y datos.
+- Los datos que presentan opciones "Sí" y " No" no son estudiados mediante gráfico debido a que la opción en Google Sheets "estadísticas de columna" nos permite analizar fácilmente esta información.
+- Por otra parte, se crea una nueva hoja para realizar el cálculo de los datos numéricos ( Edad, Cantidad_Pagada, Calificación_Reseña y Compras_Anteriores)
