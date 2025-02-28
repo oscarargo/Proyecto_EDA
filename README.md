@@ -87,7 +87,7 @@ Sesión 2:
 - Se crea la hoja de cálculo de google sheets y se importa la base de datos correspondiente
 - Se gestiona la información y se comienza con la limpieza y transformación de los datos, creando inicialmente una tabla de traducciones para todas las palabras en inglés
 - Se realiza la conversión de los datos en texto, fechas, números o moneda en aquellos que lo requieran (principalmente la moneda, edad y calificación de la reseña)
-
+- Se hace una visualización de los datos y se elimina la columna Código_Promocional puesto que la información se repite respecto a Descuento
 - Posteriormente, se procede a la creación de columnas para sustituir los términos y palabras en inglés al español ( usando funcion BUSCARV)
 - Se descarga la plantilla con los datos transformados en formato CSV y se vuelve a importar sustituyendo el nombre por Datos_Compras
 - En la tabla Datos_Compras se eliminan todas las columnas que contengan las palabras en inglés dejando única y exclusivamente los datos y palabras en español-
@@ -107,3 +107,7 @@ Sesión 3:
 Sesión 4:
 
 - Tras haber estudiado individualmente todas las columnas de la base de datos, procedemos a realizar un estudio más exhaustivo combinando columnas y entrando en profundidad en el estudio de la base de datos.
+- Se crea la pestaña DASHBOARD para poder proceder a la creación del DASHBOARD en paralelo conforme se realiza el EDA
+- En la hoja EDA se comienza con el estudio final de los datos. Empezamos estudiando relaciones asociadas a la Cantidad_Pagada y obteniendo los totales de ventas para el dashboard 
+- Se continua realizando un mapa por ubicación y cantidad total en ventas 
+- estudiamos las relaciones entre variables numéricas y categóricas que nos permiten establecer correlaciones y obtener información más detallada sobre los datos que tenemos.
