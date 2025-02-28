@@ -24,7 +24,6 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 *   **Suscripción:** Indica si el cliente está suscrito o no.
 *   **Tipo_Envío:** Método de envío utilizado.
 *   **Descuento Aplicado:** Indica si se aplicó un descuento en la compra.
-*   **Código_Promocional:** Indica si se utilizó un código promocional.
 *   **Compras_Anteriores:** Número de compras anteriores realizadas por el cliente.
 *   **Tipo_Pago:** Método de pago utilizado.
 *   **Frecuencia_Compras:** Frecuencia con la que el cliente realiza compras
@@ -111,3 +110,9 @@ Sesión 4:
 - En la hoja EDA se comienza con el estudio final de los datos. Empezamos estudiando relaciones asociadas a la Cantidad_Pagada y obteniendo los totales de ventas para el dashboard 
 - Se continua realizando un mapa por ubicación y cantidad total en ventas 
 - estudiamos las relaciones entre variables numéricas y categóricas que nos permiten establecer correlaciones y obtener información más detallada sobre los datos que tenemos.
+
+Sesión 5:
+
+- Se procede a la finalización del proyecto, tras haber realizado los estudios pertinentes y haber realizado todas las gráficas necesarias para el EDA, se procede al montaje del dashboard para la finalización del proyecto.
+
+- El dashboard consta:
