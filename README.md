@@ -33,6 +33,14 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 *   **Frecuencia_Compras:** Frecuencia con la que el cliente realiza compras
 
 ## Estructura del Proyecto
+```bash
+--- data
+----- Datos_transformados.csv
+----- shopping_trends_updated.csv
+
+--- Readme.md
+```
+
 ## Metodología/ Próximos pasos✍️✍️
 
  Pasos para realizar un Análisis Exploratorio de Datos (EDA) en Google Sheets:
