@@ -6,7 +6,11 @@
 
 Este proyecto consiste en un análisis exploratorio de datos (EDA) realizado sobre un conjunto de datos de tendencias de compras de clientes. El objetivo principal es obtener información valiosa sobre el comportamiento de compra de los clientes, identificar patrones y tendencias, y proporcionar una base para la toma de decisiones informadas en estrategias de marketing y ventas.
 
-## Conjunto de Datos
+#### Objetivo Principal del Proyecto🎯🎯
+
+El propósito de este análisis es comprender los patrones de compra de los clientes, evaluar la relación entre las características del consumidor y su comportamiento de compra, y detectar oportunidades para mejorar la fidelización y aumentar las ventas. Esto permitirá a la empresa personalizar sus ofertas, mejorar la segmentación del mercado y optimizar su logística de distribución.
+
+## Conjunto de Datos📊
 
 El conjunto de datos utilizado en este análisis contiene información sobre:
 
@@ -29,7 +33,8 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 *   **Frecuencia_Compras:** Frecuencia con la que el cliente realiza compras
 
 ## Estructura del Proyecto
-## Metodología
+## Metodología/ Próximos pasos✍️✍️
+
  Pasos para realizar un Análisis Exploratorio de Datos (EDA) en Google Sheets:
 
 ##### 1.Carga de datos
@@ -70,26 +75,27 @@ a través de Kaggle, se obtuvo la base de datos y la idea necesaria para llevar 
 URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
 ## Resultados y Conclusiones
-- Conclusiones iniciales y próximos pasos
+- Conclusiones iniciales y próximos pasos.
 
 - Identificación de patrones de compra.
 
-- Posibles segmentaciones de clientes
+- Posibles segmentaciones de clientes.
+
 - Insights sobre descuentos, métodos de pago y frecuencia de compras.
 ## Recap Session
 Sesión 1: 
-- Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada
-- Se crean las carpetas para crear la estructura del proyecto y mantener todos los datos en un mismo lugar
-- Se importa la base de datos con los datos originales "shopping_trends_updated.csv"
+- Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada.
+- Se crean las carpetas para crear la estructura del proyecto y mantener todos los datos en un mismo lugar.
+- Se importa la base de datos con los datos originales "shopping_trends_updated.csv".
 
 Sesión 2: 
 - Se crea la hoja de cálculo de google sheets y se importa la base de datos correspondiente
-- Se gestiona la información y se comienza con la limpieza y transformación de los datos, creando inicialmente una tabla de traducciones para todas las palabras en inglés
-- Se realiza la conversión de los datos en texto, fechas, números o moneda en aquellos que lo requieran (principalmente la moneda, edad y calificación de la reseña)
-- Se hace una visualización de los datos y se elimina la columna Código_Promocional puesto que la información se repite respecto a Descuento
-- Posteriormente, se procede a la creación de columnas para sustituir los términos y palabras en inglés al español ( usando funcion BUSCARV)
-- Se descarga la plantilla con los datos transformados en formato CSV y se vuelve a importar sustituyendo el nombre por Datos_Compras
-- En la tabla Datos_Compras se eliminan todas las columnas que contengan las palabras en inglés dejando única y exclusivamente los datos y palabras en español-
+- Se gestiona la información y se comienza con la limpieza y transformación de los datos, creando inicialmente una tabla de traducciones para todas las palabras en inglés.
+- Se realiza la conversión de los datos en texto, fechas, números o moneda en aquellos que lo requieran (principalmente la moneda, edad y calificación de la reseña).
+- Se hace una visualización de los datos y se elimina la columna Código_Promocional puesto que la información se repite respecto a Descuento y tras analizar los datos, supone la misma información.
+- Posteriormente, se procede a la creación de columnas para sustituir los términos y palabras en inglés al español ( usando funcion BUSCARV).
+- Se descarga la plantilla con los datos transformados en formato CSV y se vuelve a importar sustituyendo el nombre por Datos_Compras.
+- En la tabla Datos_Compras se eliminan todas las columnas que contengan las palabras en inglés dejando única y exclusivamente los datos y palabras en español.
 - A partir de aquí se sientas las bases para proceder al análisis de datos y concluye la fase de transformación y limpieza de datos.
 
 Sesión 3:
