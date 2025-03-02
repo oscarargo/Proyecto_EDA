@@ -1,4 +1,4 @@
-# Proyecto_EDA
+### Proyecto EDA Análisis Exploratorio de Datos
 
 # Análisis Exploratorio de Datos de Tendencias de Compras 📊
 
@@ -45,10 +45,9 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 ##### 1.Carga de datos
 
 - Subir el archivo CSV a Google Sheets.
+- Revisar que los datos han sido cargados correctamente.
 
-##### 2.Revisar la estructura y verificar que los datos se hayan cargado correctamente.
-
-- Limpieza de datos
+##### 2.Limpieza de datos
 
 - Renombrar columnas mal etiquetadas o genéricas.
 
@@ -148,7 +147,7 @@ Sesión 8
  - En paralelo se redacta en doc word un documento para recopilar los datos del EDA y nuevas hipótesis encontradas.
  
 ## Resultados y Conclusiones
-- Hallazgos iniciales.
+#### Hallazgos iniciales.
    * No hay valores nulos en el conjunto de datos.
    * Estadísticas clave:
        + La edad de los clientes varía entre 18 y 70 años ( media de 44 años)
@@ -162,37 +161,37 @@ Sesión 8
        + Tenemos 6 opciones de pago diferentes ( Venmo,PayPal, Transferencia bancaria, Tarjeta de Crédito, Dinero en efectivo...)
        + Hay varios tipos de envío diferentes y diferentes frecuencias de compra
 
-- Análisis visual 
+#### Análisis visual 
 
-   1.- La categoría "Ropa" es la que mayor ventas proporciona.
+   - La categoría "Ropa" es la que mayor ventas proporciona.
 
-   2.- EL top 5 ítems más comprados son : Pantalones(171 uds), Joyas(171 uds), Blusas(171uds), Camisas(169 uds) y Jersey(164uds).
+   - EL top 5 ítems más comprados son : Pantalones(171 uds), Joyas(171 uds), Blusas(171uds), Camisas(169 uds) y Jersey(164uds).
 
-   3.- Algunas regiones tienen ventas significativamente más altas que otras.
+   - Algunas regiones tienen ventas significativamente más altas que otras.
        Se recomienda analizar estas ubicaciones con más detalle para entender el porqué de su éxito
 
-   4.- Relación entre compras previas y total de la compra actual:
+   - Relación entre compras previas y total de la compra actual:
        Hay correlación positiva leve que afirma que los clientes con más compras previas tienden a gastar más.
 
-   5.- Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina.
+   - Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina.
 
-   6.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
+   - Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
 
-   7.- Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos.
+   - Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos.
 
-- Identificación de patrones de compra.
+#### Identificación de patrones de compra.
    
-   1.- el 43% de los clientes utilizaron descuentos durante sus compras, mientras que el 57% optaron por transacciones regulares. 
+   - el 43% de los clientes utilizaron descuentos durante sus compras, mientras que el 57% optaron por transacciones regulares. 
 
-   2.- El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado.
+   - El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado.
 
-   3.- Se observan que los patrones de compra se repiten quincenal y trimestralmente, respectivamente. Siendo las frecuencias más recurrentes entre los clientes
+   - Se observan que los patrones de compra se repiten quincenal y trimestralmente, respectivamente. Siendo las frecuencias más recurrentes entre los clientes
 
-   4.- Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
+   - Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
 
-   5.- Los colores verdes divididos en verde, verde azulado, aceituna agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
+   - Los colores verdes divididos en verde, verde azulado, aceituna agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
 
-- Conclusiones y Recomendaciones
+#### Conclusiones y Recomendaciones
 
    * En general, podemos afirmar que los datos de ventas se mantienen regulares a lo largo de la estaciones del año, se observa como la tienda tiene un mayor volumen de compras por parte del género masculino y dónde la categoría más comprada es la "Ropa".
 
