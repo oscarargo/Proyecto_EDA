@@ -6,11 +6,11 @@
 
 Este proyecto consiste en un análisis exploratorio de datos (EDA) realizado sobre un conjunto de datos de tendencias de compras de clientes cuyo objetivo es obtener información valiosa sobre el comportamiento de compra de los clientes, identificar patrones y tendencias, y proporcionar una base para la toma de decisiones informadas en estrategias de marketing y ventas.
 
-## Objetivo principal del proyecto 
+## Objetivo principal del proyecto 🎯
 
 El propósito de este análisis es comprender los patrones de compra de los clientes, evaluar la relación entre las características del consumidor y su comportamiento de compra, detectar oportunidades para mejorar la fidelización y aumentar las ventas. Esto permitirá a la empresa personalizar sus ofertas, mejorar la segmentación del mercado y optimizar su logística de distribución.
 
-## Conjunto de Datos
+## Conjunto de Datos📊
 
 El conjunto de datos utilizado en este análisis contiene información sobre:
 
