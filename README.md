@@ -35,7 +35,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 ## Estructura del Proyecto
 ```bash
 --- data
------ Datos_transformados.csv
+----- Datos_transformados.csv     # Datos usados para el EDA
 ----- shopping_trends_updated.csv #Datos originales
 
 --- Readme.md
@@ -149,9 +149,9 @@ Sesión 8
  - Se hace una revisión de todas las hojas de google sheet y se procede a ordenar y adecuar el formato de la hoja del EDA. Se pulen los controles de filtro y se retocan las gráficas para permitir una mejor comprensión de los datos.
  - Se hacen modificaciones en el Readme, permitiendo dejarlo más legible y ordenado.
  - En paralelo se redacta en doc word un documento para recopilar los datos del EDA y nuevas hipótesis encontradas.
- 
+
 ## Resultados y Conclusiones
-- Hallazgos iniciales.
+#### Hallazgos iniciales.
    * No hay valores nulos en el conjunto de datos.
    * Estadísticas clave:
        + La edad de los clientes varía entre 18 y 70 años ( media de 44 años)
@@ -165,7 +165,7 @@ Sesión 8
        + Tenemos 6 opciones de pago diferentes ( Venmo,PayPal, Transferencia bancaria, Tarjeta de Crédito, Dinero en efectivo...)
        + Hay varios tipos de envío diferentes y diferentes frecuencias de compra
 
-- Análisis visual 
+#### Análisis visual 
 
    1.- La categoría "Ropa" es la que mayor ventas proporciona.
 
@@ -179,23 +179,23 @@ Sesión 8
 
    5.- Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina.
 
-   6.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
+   6.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandes diferencias entre las diferentes estaciones del año.
 
-   7.- Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos.
+   7.- Descuentos: el 57% de las compras no aplicaron descuento.
 
-- Identificación de patrones de compra.
+#### Identificación de patrones de compra.
    
-   1.- el 43% de los clientes utilizaron descuentos durante sus compras, mientras que el 57% optaron por transacciones regulares. 
+   1.- el 43% de los clientes utilizaron descuentos durante sus compras. 
 
    2.- El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado.
 
    3.- Se observan que los patrones de compra se repiten quincenal y trimestralmente, respectivamente. Siendo las frecuencias más recurrentes entre los clientes
 
-   4.- Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
+   4.- Es llamativa la baja tasa de suscripciones de clientes.
 
-   5.- Los colores verdes divididos en verde, verde azulado, aceituna agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
+   5.- Los colores verdes (verde, verde azulado y aceituna) agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
 
-- Conclusiones y Recomendaciones
+#### Conclusiones y Recomendaciones
 
    * En general, podemos afirmar que los datos de ventas se mantienen regulares a lo largo de la estaciones del año, se observa como la tienda tiene un mayor volumen de compras por parte del género masculino y dónde la categoría más comprada es la "Ropa".
 
