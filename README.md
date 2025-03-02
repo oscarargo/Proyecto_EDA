@@ -215,11 +215,25 @@ Sesión 8
 
 
 ## Próximos pasos �
+Dentro de los próximos pasos que habría que hacer se recomienda:
 
-#### Estrategia de Marketing:
-Dirigir campañas según las preferencias por género, ubicación y temporada.
-#### Optimización de Inventario:
-Ajustar el stock según la demanda en diferentes estaciones y ubicaciones.
+ #### Estrategias de Expansión y Diversificación
+  - Ampliación de catálogo: Explorar nuevas categorías de productos basadas en las tendencias de compra detectadas.
+  - Estrategia de expansión geográfica: Analizar oportunidades en nuevos mercados o estados donde la empresa aún no tiene presencia significativa.
+  - Personalización de productos: Implementar estrategias de customización de productos según las preferencias detectadas en el análisis.
+#### Optimización de Estrategias de Marketing
+  - Campañas dirigidas: Utilizar los datos de compras para realizar campañas más personalizadas según género, edad y ubicación.
+  - Retargeting y fidelización: Implementar programas de fidelización que incentiven compras recurrentes.
+  - Publicidad basada en datos: Usar la segmentación de clientes para optimizar la inversión en anuncios digitales.
+####  Mejoras en Logística y Experiencia del Cliente
+  - Optimización del stock: Ajustar la oferta en función de la demanda estacional y los productos más vendidos.
+  - Reducción de tiempos de entrega: Evaluar nuevos proveedores o estrategias logísticas para mejorar la experiencia del cliente.
+  - Mejora de la experiencia postventa: Incentivar a los clientes a dejar reseñas y mejorar el soporte al cliente.
+####  Incorporación de Análisis Predictivo
+  - Modelos de predicción de demanda: Implementar machine learning para prever tendencias futuras.
+  - Análisis de abandono de clientes: Identificar clientes en riesgo de dejar de comprar y crear estrategias para retenerlos.
+  - Optimización de precios: Evaluar estrategias de precios dinámicos según la demanda y competencia.
+
 #### Fidelización de Clientes:
 Analizar estrategias para aumentar la retención y el gasto de clientes frecuentes.
 
