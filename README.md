@@ -136,7 +136,13 @@ Sesión 5 y 6:
 
 - Tras realizar y terminar el dashboard se arregla el readme y se comienza a la redacción final del readme
 
+Sesión 7
 
+ - Se realiza un segundo dashboard de apoyo ( DASHBOARD VENTAS).
+ - Este dashboard contiene información asociada única y exclusivamente a las ventas de la empresa, obteniendo datos sobre color de item comprado, tipo de compra, frecuencia, entre otros datos.
+ - Además para una mejor extracción de datos se han realizado dos macros para obtener el gasto medio de compra o bien para ver los totales de ventas de cada grupo.
+ - Por otra parte, se añaden varios controles de filtro para poder estudiar con detalle las ventas por ubicación, descuento, suscripción, talla y temporada.
+ - Con esto se finalizaría todo el proyecto y quedaría únicamente repasar y procesar la información.
 ## Resultados y Conclusiones
 - Hallazgos iniciales.
    * No hay valores nulos en el conjunto de datos.
