@@ -138,6 +138,7 @@ Sesión 5:
        + La edad de los clientes varía entre 18 y 70 años ( media de 44 años)
        + El gasto promedio por compra es de 59,76 dólares
        + La media de la calificación de reseñas es de 3,75
+       + La talla "M" es la más vendida con un 45%, seguida de la talla "L" con un 27%.
    * Datos Categóricos:
        + Tenemos género "Masculino" y "Femenino"
        + 4 catergorías principales ( Ropa, Ropa de abrigo, Accesorios y Calzado)
@@ -149,23 +150,34 @@ Sesión 5:
 
    1.- La categoría "Ropa" es la que mayor ventas proporciona.
 
-   2.- Algunas regiones tienen ventas significativamente más altas que otras.
+   2.- EL top 5 ítems más comprados son : Pantalones(171 uds), Joyas(171 uds), Blusas(171uds), Camisas(169 uds) y Jersey(164uds).
+
+   3.- Algunas regiones tienen ventas significativamente más altas que otras.
        Se recomienda analizar estas ubicaciones con más detalle para entender el porqué de su éxito
 
-   3.- Relación entre compras previas y total de la compra actual:
+   4.- Relación entre compras previas y total de la compra actual:
        Hay correlación positiva leve que afirma que los clientes con más compras previas tienden a gastar más.
 
-   4.- Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina.
+   5.- Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina.
 
-   5.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
+   6.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
 
-   6.- Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos.
+   7.- Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos.
 
 - Identificación de patrones de compra.
+   
+   * el 43% de los clientes utilizaron descuentos durante sus compras, mientras que el 57% optaron por transacciones regulares. 
+   * El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado.
 
-- Posibles segmentaciones de clientes.
+   * Se observan que los patrones de compra se repiten quincenal y trimestralmente, respectivamente. Siendo las frecuencias más recurrentes entre los clientes
 
-- Insights sobre descuentos, métodos de pago y frecuencia de compras.
+   * Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
+
+
+
+
+
+
 
 
 
