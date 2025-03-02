@@ -82,15 +82,6 @@ URL: https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M
 a través de Kaggle, se obtuvo la base de datos y la idea necesaria para llevar a cabo este proyecto
 URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
-## Resultados y Conclusiones
-- Conclusiones iniciales y próximos pasos.
-
-- Identificación de patrones de compra.
-
-- Posibles segmentaciones de clientes.
-
-- Insights sobre descuentos, métodos de pago y frecuencia de compras.
-
 ## Recap Session
 Sesión 1: 
 - Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada.
@@ -139,4 +130,15 @@ Sesión 5:
     * Un gráfico de columnas dónde se muestra el recuento de reseñas según su calificación agrupada y por cada ítem comprado
 
     Además se han añadido unos filtros asociados a la talla, género, temporada y descuento que nos va a permitir tener un conocimiento exhaustivo de los patrones de compra de los clientes y así poder extraer conclusiones de cara al futuro.
-    
+
+## Resultados y Conclusiones
+- Conclusiones iniciales y próximos pasos.
+
+- Identificación de patrones de compra.
+
+- Posibles segmentaciones de clientes.
+
+- Insights sobre descuentos, métodos de pago y frecuencia de compras.
+
+
+
