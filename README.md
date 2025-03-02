@@ -65,15 +65,15 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 
 - Crear tablas dinámicas para agrupar y analizar datos.
 
-- Generar gráficos (barras, líneas, histogramas, scatter plots) para visualizar tendencias y distribuciones.
+- Generar gráficos para visualizar tendencias y distribuciones.
 
 ##### 4.Exploración de relaciones
 
 - Analizar correlaciones mediante tablas dinámicas y gráficos.
 
-- Comparar métricas clave por categoría de producto y temporada.
+- Comparar métricas clave por género, temporada y talla.
 
-- Evaluar el impacto de descuentos y métodos de pago en el comportamiento de compra.
+- Evaluar el impacto de descuentos y métodos de pago en el comportamiento de compra (Dashboard 2: estudio de ventas).
 
 ## Requisitos e Instalación
 Este proyecto se ha desarrollado por completo en la interfaz de google, a través de Google Sheets.
@@ -112,7 +112,7 @@ Sesión 3:
 Sesión 4:
 
 - Tras haber estudiado individualmente todas las columnas de la base de datos, procedemos a realizar un estudio más exhaustivo combinando columnas y entrando en profundidad en el estudio de la base de datos.
-- Se crea la pestaña DASHBOARD para poder proceder a la creación del DASHBOARD en paralelo conforme se realiza el EDA
+- Se crea la pestaña DASHBOARD GENERAL para poder proceder a la creación del Dashboard principal en paralelo conforme se realiza el EDA
 - En la hoja EDA se comienza con el estudio final de los datos. Empezamos estudiando relaciones asociadas a la Cantidad_Pagada y obteniendo los totales de ventas para el dashboard 
 - Se continua realizando un mapa por ubicación y cantidad total en ventas 
 - estudiamos las relaciones entre variables numéricas y categóricas que nos permiten establecer correlaciones y obtener información más detallada sobre los datos que tenemos.
@@ -121,7 +121,7 @@ Sesión 5:
 
 - Se procede a la finalización del proyecto, tras haber realizado los estudios pertinentes y haber realizado todas las gráficas necesarias para el EDA, se procede al montaje del dashboard para la finalización del proyecto.
 
-- El dashboard consta:
+- El dashboard principal ( DASHBOARD GENERAL) consta:
     * un gráfico comparativo de las ventas totales por cada género( masculino o femenino)
     * Un mapa de Estados Unidos para conocer los estados dónde más se vende
     * Un gráfico de columnas mostrando las ventas totales por cada categoría 
@@ -132,8 +132,29 @@ Sesión 5:
     Además se han añadido unos filtros asociados a la talla, género, temporada y descuento que nos va a permitir tener un conocimiento exhaustivo de los patrones de compra de los clientes y así poder extraer conclusiones de cara al futuro.
 
 ## Resultados y Conclusiones
-- Conclusiones iniciales y próximos pasos.
+- Hallazgos iniciales.
+   * No hay valores nulos en el conjunto de datos.
+   * Estadísticas clave:
+       + La edad de los clientes varía entre 18 y 70 años ( media de 44 años)
+       + El gasto promedio por compra es de 59,76 dólares
+       + La media de la calificación de reseñas es de 3,75
+   * Datos Categóricos:
+       + Tenemos género "Masculino" y "Femenino"
+       + 4 catergorías principales ( Ropa, Ropa de abrigo, Accesorios y Calzado)
+       + La región geográfica es Estados Unidos y todos los estados que conforman este país
+       + Tenemos 6 opciones de pago diferentes ( Venmo,PayPal, Transferencia bancaria, Tarjeta de Crédito, Dinero en efectivo...)
+       + Hay varios tipos de envío diferentes y diferentes frecuencias de compra
 
+- Análisis visual 
+   1.- La categoría "Ropa" es la que mayor ventas proporciona
+   2.- Algunas regiones tienen ventas significativamente más altas que otras 
+       Se recomienda analizar estas ubicaciones con más detalle para entender el porqué de su éxito
+   3.- Relación entre compras previas y total de la compra actual:
+      Hay correlación positiva leve que afirma que los clientes con más compras previas tienden a gastar más
+   4.- Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina
+   5.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año
+   6.- Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos
+   
 - Identificación de patrones de compra.
 
 - Posibles segmentaciones de clientes.
