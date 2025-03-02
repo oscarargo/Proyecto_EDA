@@ -41,7 +41,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 --- Readme.md
 ```
 
-## Metodología/ Próximos pasos✍️✍️
+## Metodología✍️✍️
 
  Pasos para realizar un Análisis Exploratorio de Datos (EDA) en Google Sheets:
 
@@ -74,6 +74,9 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 - Comparar métricas clave por género, temporada y talla.
 
 - Evaluar el impacto de descuentos y métodos de pago en el comportamiento de compra.
+
+##### 5.- Creación de dashboard interactivos 
+ - Gracias a estos dashboards se va a permitir observar los datos de manera más visual y estructurada.
 
 ## Requisitos e Instalación
 Este proyecto se ha desarrollado por completo en la interfaz de google, a través de Google Sheets.
@@ -130,7 +133,7 @@ Sesión 5 y 6:
     * Un gráfico de columnas dónde se muestra el recuento de reseñas según su calificación agrupada y por cada ítem comprado
 
     Además se han añadido unos filtros asociados a la talla, género, temporada y descuento que nos va a permitir tener un conocimiento exhaustivo de los patrones de compra de los clientes y así poder extraer conclusiones de cara al futuro.
-    
+
 - Tras realizar y terminar el dashboard se arregla el readme y se comienza a la redacción final del readme
 
 
@@ -198,7 +201,14 @@ Sesión 5 y 6:
  - Recomendación 4: La categoría Ropa lidera las ventas, lo que la convierte en un área crucial para el crecimiento. Recomendamos garantizar que los niveles de existencias de prendas de vestir se mantengan altos, centrándose en los estilos populares, para satisfacer la demanda continua y maximizar las ventas.
 
 
-## Próximos pasos
+## Próximos pasos �
+
+#### Estrategia de Marketing:
+Dirigir campañas según las preferencias por género, ubicación y temporada.
+#### Optimización de Inventario:
+Ajustar el stock según la demanda en diferentes estaciones y ubicaciones.
+#### Fidelización de Clientes:
+Analizar estrategias para aumentar la retención y el gasto de clientes frecuentes.
 
 
 ## Contribuciones🤝
@@ -210,7 +220,7 @@ abre un pull request o una issue
 Quería agradecer a todo el equipo de The Power por la oportunidad de aprender y poder desarrollar y crear este tipo de proyectos de iniciación en el mundo de Data & Analytics.
 
 ✒ Autores:
-Óscar Arganda
+Óscar Arganda (https://github.com/oscarargo)
 
 
 
