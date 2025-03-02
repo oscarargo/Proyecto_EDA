@@ -36,7 +36,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 ```bash
 --- data
 ----- Datos_transformados.csv
------ shopping_trends_updated.csv
+----- shopping_trends_updated.csv #Datos originales
 
 --- Readme.md
 ```
@@ -90,6 +90,7 @@ URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-
 - Posibles segmentaciones de clientes.
 
 - Insights sobre descuentos, métodos de pago y frecuencia de compras.
+
 ## Recap Session
 Sesión 1: 
 - Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada.
@@ -130,3 +131,12 @@ Sesión 5:
 - Se procede a la finalización del proyecto, tras haber realizado los estudios pertinentes y haber realizado todas las gráficas necesarias para el EDA, se procede al montaje del dashboard para la finalización del proyecto.
 
 - El dashboard consta:
+    * un gráfico comparativo de las ventas totales por cada género( masculino o femenino)
+    * Un mapa de Estados Unidos para conocer los estados dónde más se vende
+    * Un gráfico de columnas mostrando las ventas totales por cada categoría 
+    * Un gráfico de barras mostrando las ventas totales por cada Talla
+    * Un gráfico de columnas con las ventas totales según el tipo de envío
+    * Un gráfico de columnas dónde se muestra el recuento de reseñas según su calificación agrupada y por cada ítem comprado
+
+    Además se han añadido unos filtros asociados a la talla, género, temporada y descuento que nos va a permitir tener un conocimiento exhaustivo de los patrones de compra de los clientes y así poder extraer conclusiones de cara al futuro.
+    
