@@ -85,7 +85,7 @@ URL: https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M
 a través de Kaggle, se obtuvo la base de datos y la idea necesaria para llevar a cabo este proyecto
 URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
 
-## Resultados y Conclusiones
+
 ## Recap Session
 Sesión 1: 
 - Se procede a la creación del Readme, junto a la descripción del poryecto y estructura de la base de datos utilizada
