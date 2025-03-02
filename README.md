@@ -166,12 +166,34 @@ Sesión 5:
 
 - Identificación de patrones de compra.
    
-   * el 43% de los clientes utilizaron descuentos durante sus compras, mientras que el 57% optaron por transacciones regulares. 
-   * El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado.
+   1.- el 43% de los clientes utilizaron descuentos durante sus compras, mientras que el 57% optaron por transacciones regulares. 
 
-   * Se observan que los patrones de compra se repiten quincenal y trimestralmente, respectivamente. Siendo las frecuencias más recurrentes entre los clientes
+   2.- El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado.
 
-   * Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
+   3.- Se observan que los patrones de compra se repiten quincenal y trimestralmente, respectivamente. Siendo las frecuencias más recurrentes entre los clientes
+
+   4.- Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
+
+   5.- Los colores verdes divididos en verde, verde azulado, aceituna agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
+
+- Conclusiones y Recomendaciones
+
+   * En general, podemos afirmar que los datos de ventas se mantienen regulares a lo largo de la estaciones del año, se observa como la tienda tiene un mayor volumen de compras por parte del género masculino y dónde la categoría más comprada es la "Ropa".
+
+   * Generalmente, las reseñas son positivas y la mayoría superan los 3,5 puntos en todas las categorías e items comprados.
+
+   * La impresión general es que el negocio está prosperando y presenta ventas sólidas en una variada gama de productos. La base de clientes puede mejorarse para ello se haran posteriormente unas recomendaciones para atraer nuevos clientes. La distribución estacional nos indica un desempeño constante a lo largo de todo el año.
+
+ ++ RECOMENDACIONES
+
+  - Recomendación 1: Las ventas más altas se observan entre los hombres, principalmente debido a una base de clientes más grande en comparación con las mujeres. Sin embargo, las ventas promedio por cliente son casi idénticas para ambos sexos (incluso ligeramente superior para el género femenino). Para impulsar las ventas generales, recomendamos dirigirse a las clientes femeninas de manera más eficaz para equilibrar la proporción entre hombres y mujeres y aumentar la participación de la población femenina en las ventas de la empresa.
+
+  - Recomendación 2: Las ventas son mayores en el grupo de edad de adultos, lo que indica una fuerte demanda. Para sacar provecho de esto, recomendamos centrar los esfuerzos de marketing y las promociones específicamente diseñadas para adultos, impulsando así ventas aún mayores en este grupo demográfico clave.
+
+  - Recomendación 3: La talla mediana muestra consistentemente las mayores ventas. Para optimizar el inventario y satisfacer la demanda de los clientes, sugerimos priorizar el stock y la disponibilidad de productos de tamaño mediano, asegurando que los clientes tengan acceso a sus tamaños preferidos.
+
+ - Recomendación 4: La categoría Ropa lidera las ventas, lo que la convierte en un área crucial para el crecimiento. Recomendamos garantizar que los niveles de existencias de prendas de vestir se mantengan altos, centrándose en los estilos populares, para satisfacer la demanda continua y maximizar las ventas.
+
 
 
 
