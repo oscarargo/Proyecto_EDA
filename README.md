@@ -4,7 +4,11 @@
 
 ## Descripción
 
-Este proyecto consiste en un análisis exploratorio de datos (EDA) realizado sobre un conjunto de datos de tendencias de compras de clientes. El objetivo principal es obtener información valiosa sobre el comportamiento de compra de los clientes, identificar patrones y tendencias, y proporcionar una base para la toma de decisiones informadas en estrategias de marketing y ventas.
+Este proyecto consiste en un análisis exploratorio de datos (EDA) realizado sobre un conjunto de datos de tendencias de compras de clientes cuyo objetivo es obtener información valiosa sobre el comportamiento de compra de los clientes, identificar patrones y tendencias, y proporcionar una base para la toma de decisiones informadas en estrategias de marketing y ventas.
+
+## Objetivo principal del proyecto 
+
+El propósito de este análisis es comprender los patrones de compra de los clientes, evaluar la relación entre las características del consumidor y su comportamiento de compra, detectar oportunidades para mejorar la fidelización y aumentar las ventas. Esto permitirá a la empresa personalizar sus ofertas, mejorar la segmentación del mercado y optimizar su logística de distribución.
 
 ## Conjunto de Datos
 
@@ -24,7 +28,6 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 *   **Estado de Suscripción:** Indica si el cliente está suscrito o no.
 *   **Tipo de Envío:** Método de envío utilizado.
 *   **Descuento Aplicado:** Indica si se aplicó un descuento en la compra.
-*   **Código Promocional Utilizado:** Indica si se utilizó un código promocional.
 *   **Compras Anteriores:** Número de compras anteriores realizadas por el cliente.
 *   **Método de Pago:** Método de pago utilizado.
 *   **Frecuencia de Compras:** Frecuencia con la que el cliente realiza compras
@@ -32,19 +35,20 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 ## Estructura del Proyecto
 ```bash
 --- data
------ Datos_transformados.csv
+----- Datos_transformados.csv     # Datos usados para el EDA
 ----- shopping_trends_updated.csv #Datos originales
 
 --- Readme.md
 ```
 
-## Metodología✍️✍️
+## Metodología✍️
 
  Pasos para realizar un Análisis Exploratorio de Datos (EDA) en Google Sheets:
 
 ##### 1.Carga de datos
 
 - Subir el archivo CSV a Google Sheets.
+
 - Revisar que los datos han sido cargados correctamente.
 
 ##### 2.Limpieza de datos
@@ -72,7 +76,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 - Evaluar el impacto de descuentos y métodos de pago en el comportamiento de compra.
 
 ##### 5.- Creación de dashboard interactivos 
- - Gracias a estos dashboards se va a permitir observar los datos de manera más visual y estructurada.
+ - Permiten observar los datos de manera más visual y estructurada.
 
 ## Requisitos e Instalación
 Este proyecto se ha desarrollado por completo en la interfaz de google, a través de Google Sheets.
@@ -177,7 +181,7 @@ Sesión 8
 
    - Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
 
-   - Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos.
+   - Descuentos: el 57% de los clientes no usaron descuentos.
 
 #### Identificación de patrones de compra.
    
