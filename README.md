@@ -146,15 +146,21 @@ Sesión 5:
        + Hay varios tipos de envío diferentes y diferentes frecuencias de compra
 
 - Análisis visual 
-   1.- La categoría "Ropa" es la que mayor ventas proporciona
-   2.- Algunas regiones tienen ventas significativamente más altas que otras 
+
+   1.- La categoría "Ropa" es la que mayor ventas proporciona.
+
+   2.- Algunas regiones tienen ventas significativamente más altas que otras.
        Se recomienda analizar estas ubicaciones con más detalle para entender el porqué de su éxito
+
    3.- Relación entre compras previas y total de la compra actual:
-      Hay correlación positiva leve que afirma que los clientes con más compras previas tienden a gastar más
-   4.- Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina
-   5.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año
-   6.- Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos
-   
+       Hay correlación positiva leve que afirma que los clientes con más compras previas tienden a gastar más.
+
+   4.- Ventas por Género: Es notoria que hay más compras por parte de la población masculina que de la población femenina.
+
+   5.- Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
+
+   6.- Descuentos: Se observa que las compras por parte de la población no tienen descuento o no aprovechan dichos descuentos.
+
 - Identificación de patrones de compra.
 
 - Posibles segmentaciones de clientes.
