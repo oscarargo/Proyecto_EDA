@@ -73,7 +73,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 
 - Comparar métricas clave por género, temporada y talla.
 
-- Evaluar el impacto de descuentos y métodos de pago en el comportamiento de compra (Dashboard 2: estudio de ventas).
+- Evaluar el impacto de descuentos y métodos de pago en el comportamiento de compra.
 
 ## Requisitos e Instalación
 Este proyecto se ha desarrollado por completo en la interfaz de google, a través de Google Sheets.
@@ -117,7 +117,7 @@ Sesión 4:
 - Se continua realizando un mapa por ubicación y cantidad total en ventas 
 - estudiamos las relaciones entre variables numéricas y categóricas que nos permiten establecer correlaciones y obtener información más detallada sobre los datos que tenemos.
 
-Sesión 5:
+Sesión 5 y 6:
 
 - Se procede a la finalización del proyecto, tras haber realizado los estudios pertinentes y haber realizado todas las gráficas necesarias para el EDA, se procede al montaje del dashboard para la finalización del proyecto.
 
@@ -130,6 +130,9 @@ Sesión 5:
     * Un gráfico de columnas dónde se muestra el recuento de reseñas según su calificación agrupada y por cada ítem comprado
 
     Además se han añadido unos filtros asociados a la talla, género, temporada y descuento que nos va a permitir tener un conocimiento exhaustivo de los patrones de compra de los clientes y así poder extraer conclusiones de cara al futuro.
+    
+- Tras realizar y terminar el dashboard se arregla el readme y se comienza a la redacción final del readme
+
 
 ## Resultados y Conclusiones
 - Hallazgos iniciales.
@@ -182,7 +185,7 @@ Sesión 5:
 
    * Generalmente, las reseñas son positivas y la mayoría superan los 3,5 puntos en todas las categorías e items comprados.
 
-   * La impresión general es que el negocio está prosperando y presenta ventas sólidas en una variada gama de productos. La base de clientes puede mejorarse para ello se haran posteriormente unas recomendaciones para atraer nuevos clientes. La distribución estacional nos indica un desempeño constante a lo largo de todo el año.
+   * La impresión general es que el negocio está prosperando y presenta ventas sólidas en una variada gama de productos. La base de clientes puede mejorarse, para ello se haran posteriormente unas recomendaciones para atraer nuevos clientes. La distribución estacional nos indica un desempeño constante a lo largo de todo el año.
 
  ++ RECOMENDACIONES
 
@@ -195,7 +198,19 @@ Sesión 5:
  - Recomendación 4: La categoría Ropa lidera las ventas, lo que la convierte en un área crucial para el crecimiento. Recomendamos garantizar que los niveles de existencias de prendas de vestir se mantengan altos, centrándose en los estilos populares, para satisfacer la demanda continua y maximizar las ventas.
 
 
+## Próximos pasos
 
+
+## Contribuciones🤝
+ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor 
+abre un pull request o una issue
+
+## Autores y Agradecimientos
+
+Quería agradecer a todo el equipo de The Power por la oportunidad de aprender y poder desarrollar y crear este tipo de proyectos de iniciación en el mundo de Data & Analytics.
+
+✒ Autores:
+Óscar Arganda
 
 
 
