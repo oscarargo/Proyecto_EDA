@@ -143,6 +143,13 @@ Sesión 7
  - Además para una mejor extracción de datos se han realizado dos macros para obtener el gasto medio de compra o bien para ver los totales de ventas de cada grupo.
  - Por otra parte, se añaden varios controles de filtro para poder estudiar con detalle las ventas por ubicación, descuento, suscripción, talla y temporada.
  - Con esto se finalizaría todo el proyecto y quedaría únicamente repasar y procesar la información.
+
+Sesión 8
+
+ - Se hace una revisión de todas las hojas de google sheet y se procede a ordenar y adecuar el formato de la hoja del EDA. Se pulen los controles de filtro y se retocan las gráficas para permitir una mejor comprensión de los datos.
+ - Se hacen modificaciones en el Readme, permitiendo dejarlo más legible y ordenado.
+ - En paralelo se redacta en doc word un documento para recopilar los datos del EDA y nuevas hipótesis encontradas.
+ 
 ## Resultados y Conclusiones
 - Hallazgos iniciales.
    * No hay valores nulos en el conjunto de datos.
