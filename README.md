@@ -1,5 +1,5 @@
 ### Proyecto EDA Análisis Exploratorio de Datos
-
+https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M24GKNekg/edit?usp=sharing (Contenido en google sheet) Vease apartado de Requisitos
 # Análisis Exploratorio de Datos de Tendencias de Compras 📊
 
 ## Descripción
@@ -19,7 +19,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 *   **Género:** Género del cliente.
 *   **Artículo Comprado:** Nombre del artículo comprado.
 *   **Categoría:** Categoría del artículo comprado (Ropa, Accesorios, Calzado, etc.).
-*   **Monto de Compra (USD):** Monto gastado en la compra.
+*   **Cantidad_Pagada (USD):** Monto gastado en la compra.
 *   **Ubicación:** Ubicación geográfica del cliente.
 *   **Talla:** Talla del artículo comprado.
 *   **Color:** Color del artículo comprado.
@@ -80,7 +80,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre:
 
 ## Requisitos e Instalación
 Este proyecto se ha desarrollado por completo en la interfaz de google, a través de Google Sheets.
-URL: https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M24GKNekg/edit?gid=1274025939#gid=1274025939
+URL: https://docs.google.com/spreadsheets/d/16Xv3_cnuQT56q5JkozkNtUa7c4wBzevzI4M24GKNekg/edit?usp=sharing
 
 a través de Kaggle, se obtuvo la base de datos y la idea necesaria para llevar a cabo este proyecto
 URL: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data
