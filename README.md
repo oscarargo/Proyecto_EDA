@@ -151,6 +151,7 @@ Sesión 8
  - En paralelo se redacta en doc word un documento para recopilar los datos del EDA y nuevas hipótesis encontradas.
  
 ## Resultados y Conclusiones ( INFORME EXPLICATIVO DEL ANÁLISIS)📝
+En esta parte se explicarán los datos más *relevantes* obtenidos del análisis de datos, no obstante con la información de las hojas EDA y los Dashboards ( General y ventas) se pueden extraer conclusiones mucho más exhaustivas combinando los diferentes filtros y gráficos que se presentan a lo largo de estas hojas, evitando crear un documento tedioso.
 #### Hallazgos iniciales.🕵️‍♂️
    * No hay valores nulos en el conjunto de datos.
    * Estadísticas clave:
