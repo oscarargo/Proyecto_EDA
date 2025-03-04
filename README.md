@@ -150,14 +150,15 @@ Sesión 8
  - Se hacen modificaciones en el Readme, permitiendo dejarlo más legible y ordenado.
  - En paralelo se redacta en doc word un documento para recopilar los datos del EDA y nuevas hipótesis encontradas.
  
-## Resultados y Conclusiones
-#### Hallazgos iniciales.
+## Resultados y Conclusiones ( INFORME EXPLICATIVO DEL ANÁLISIS)📝
+#### Hallazgos iniciales.🕵️‍♂️
    * No hay valores nulos en el conjunto de datos.
    * Estadísticas clave:
        + La edad de los clientes varía entre 18 y 70 años ( media de 44 años)
        + El gasto promedio por compra es de 59,76 dólares
        + La media de la calificación de reseñas es de 3,75
        + La talla "M" es la más vendida con un 45%, seguida de la talla "L" con un 27%.
+       + La media de la calificación es bastante buena a lo largo de las categorías, habiendo casos concretos como los accesorios que presentan más ventas con calificaciones de reseña entre 4 y 5.
    * Datos Categóricos:
        + Tenemos género "Masculino" y "Femenino"
        + 4 catergorías principales ( Ropa, Ropa de abrigo, Accesorios y Calzado)
@@ -181,6 +182,8 @@ Sesión 8
 
    - Ventas por Temporada: se observa una relación de compras bastante equilibrada en todas las temporadas, sin haber grandísimas diferencias entre las diferentes estaciones del año.
 
+   - Ventas por ubicación: Las zonas con más ventas son Montana e Illinois, siendo Kansas y Hawai las zonas con menos ventas. No se establecen relaciones en esta variación a excepción de Hawai dónde probablemente por tipo de envío ( Express y dia siguiente, son los mayoritarios) el cliente pudiera comprar menos. Se recomienda hacer un estudio exhaustivo de la ubicación y ver los factores, tanto de la empresa como los factores sociales y demográficos, que nos permitan entender el porqué de estas ventas.
+
    - Descuentos: el 57% de los clientes no usaron descuentos.
 
 #### Identificación de patrones de compra.
@@ -194,6 +197,11 @@ Sesión 8
    - Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
 
    - Los colores verdes divididos en verde, verde azulado, aceituna agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
+  
+#### Segmentación de clientes
+  - Se propone establecer una segmentación de clientes basados en los hallazgos ( por ejemplo, Clientes de "alto valor" o VIP, "Clientes Jóvenes y urbanos", " Compradores ocasionales", "Clientes adultos", entre otros).
+  - Alguna de las limitaciones que se encuentran en esta base de datos, es obtener criterios más depurados que nos permitan hacer esta segmentación de clientes para poder realizar un análisis más elaborado.
+  - Habría que describir las caracterísitcas de cada segmento de clientes, definir correctamente cada segmento y de esta manera podemos analizar los datos y potenciar las ventas de cara a futuro.
 
 #### Conclusiones y Recomendaciones
 
@@ -233,9 +241,6 @@ Dentro de los próximos pasos que habría que hacer se recomienda:
   - Modelos de predicción de demanda: Implementar machine learning para prever tendencias futuras.
   - Análisis de abandono de clientes: Identificar clientes en riesgo de dejar de comprar y crear estrategias para retenerlos.
   - Optimización de precios: Evaluar estrategias de precios dinámicos según la demanda y competencia.
-
-#### Fidelización de Clientes:
-Analizar estrategias para aumentar la retención y el gasto de clientes frecuentes.
 
 
 ## Contribuciones🤝
