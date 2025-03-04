@@ -95,9 +95,9 @@ Sesión 2:
 - Se crea la hoja de cálculo de google sheets y se importa la base de datos correspondiente
 - Se gestiona la información y se comienza con la limpieza y transformación de los datos, creando inicialmente una tabla de traducciones para todas las palabras en inglés.
 - Se realiza la conversión de los datos en texto, fechas, números o moneda en aquellos que lo requieran (principalmente la moneda, edad y calificación de la reseña).
-- Se hace una visualización de los datos y se elimina la columna Código_Promocional puesto que la información se repite respecto a Descuento y tras analizar los datos, supone la misma información.
+- Se hace una visualización de los datos y se elimina la columna Código_Promocional puesto que la información se repite respecto a Descuento  (tras analizar los datos, supone la misma información).
 - Posteriormente, se procede a la creación de columnas para sustituir los términos y palabras en inglés al español ( usando funcion BUSCARV).
-- Se descarga la plantilla con los datos transformados en formato CSV y se vuelve a importar sustituyendo el nombre por Datos_Compras.
+- Se descarga la plantilla con los datos transformados en formato CSV y se vuelve a importar sustituyendo el nombre de la hoja por Datos_Transformados y el nombre de la tabla por Datos_Compras.
 - En la tabla Datos_Compras se eliminan todas las columnas que contengan las palabras en inglés dejando única y exclusivamente los datos y palabras en español.
 - A partir de aquí se sientas las bases para proceder al análisis de datos y concluye la fase de transformación y limpieza de datos.
 
@@ -188,15 +188,15 @@ Sesión 8
 
 #### Identificación de patrones de compra.
    
-   - el 43% de los clientes utilizaron descuentos durante sus compras, mientras que el 57% optaron por transacciones regulares. 
+   - el 43% de los clientes utilizaron descuentos durante sus compras.
 
-   - El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado.
+   - El método de pago más frecuente fueron PayPal, tarjeta de crédito y dinero en efectivo siendo la transferencia bancaria el método menos usado de manera general.
 
    - Se observan que los patrones de compra se repiten quincenal y trimestralmente, respectivamente. Siendo las frecuencias más recurrentes entre los clientes
 
    - Es llamativa la baja tasa de suscripciones de clientes a la plataforma/tienda
 
-   - Los colores verdes divididos en verde, verde azulado, aceituna agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
+   - Los colores verdes (verde, verde azulado, aceituna) agrupan la mayor parte de las ventas siendo una tendencia a tener en cuenta en la población.
   
 #### Segmentación de clientes
   - Se propone establecer una segmentación de clientes basados en los hallazgos ( por ejemplo, Clientes de "alto valor" o VIP, "Clientes Jóvenes y urbanos", " Compradores ocasionales", "Clientes adultos", entre otros).
